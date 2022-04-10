@@ -14,7 +14,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
 - [Husky](https://typicode.github.io/husky)
-- [PDFMAke](https://pdfmake.github.io/docs/0.1/)
+- [PDFMake](https://pdfmake.github.io/docs/0.1/)
 
 \+ other smaller dependencies
 
